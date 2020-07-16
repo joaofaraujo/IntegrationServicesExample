@@ -40,7 +40,7 @@
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
           DTS:CodePage="1252"
-          DTS:ConnectionString="D:\Itau\Projetos\ProcessarArquivo\ExemploProcessamentoArquivo\files\example.txt">
+          DTS:ConnectionString="C:\IntegrationServicesExample\files\example.txt">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
